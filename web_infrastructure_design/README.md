@@ -12,3 +12,6 @@ You must be able to explain what each component is doing
 You must be able to explain system redundancy
 
 Know all the mentioned acronyms: LAMP, SPOF, QPS
+
+
+Medium link: https://medium.com/@elhadjrzg/web-infrastructure-design-3b9a9b731a35
